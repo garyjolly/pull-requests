@@ -1,0 +1,6 @@
+This file was added in the feature-2 branch.
+
+Another change in this file in the feature-2 branch.
+
+Yet another change to this file.
+
